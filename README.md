@@ -17,6 +17,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Gitflow validation
-        uses: wsantos-conekta/pull-request-gitflow@master
+        uses: sebastianreh/pull-request-gitflow@master
 
 ```
